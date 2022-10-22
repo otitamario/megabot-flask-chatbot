@@ -46,7 +46,7 @@ pathy==0.6.2
 Pint==0.19.2
 pkginfo==1.8.3
 plac==0.9.6
-preshed==3.0.8
+preshed==2.0.1
 pycodestyle==2.9.1
 pycparser==2.21
 pydantic==1.10.2
