@@ -3,7 +3,7 @@
     "builds": [
         {
             "src": "*.py",
-            "use": "@lotitamario/megabot-flask-chatbot"
+            "use": "@otitamario/megabot-flask-chatbot"
         }
     ],
     "routes": [
